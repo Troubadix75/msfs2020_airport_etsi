@@ -1,0 +1,31 @@
+<AssetPackage Name="troubadix-etsi01" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Airport ETSI</Title>
+		<Manufacturer/>
+		<Creator>Thomas Stueven</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\troubadix-etsi01\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\troubadix-etsi01\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="etsi01">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

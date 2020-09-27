@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport_ETSI" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\troubadix-etsi01.xml</Package>
+	</Packages>
+</Project>
+
