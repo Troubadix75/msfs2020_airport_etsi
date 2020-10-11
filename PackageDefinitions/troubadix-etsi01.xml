@@ -1,4 +1,4 @@
-<AssetPackage Name="troubadix-etsi01" Version="1.0.0">
+<AssetPackage Name="troubadix-etsi01" Version="1.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Airport ETSI</Title>
@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\troubadix-etsi01\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\troubadix-etsi01\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\troubadix-etsi01\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="etsi01">
